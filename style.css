@@ -1,0 +1,41 @@
+h1{
+    background-color: pink;
+    font-size: 500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: Georgia;
+    text-align: center;
+    width: 600px;
+    border-radius: 10px;
+}
+
+h2{
+    background-color: pink;
+    font-size: 300%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: Georgia;
+    text-align: center;
+    width: 600px;
+    border-radius: 10px;
+}
+
+p{
+    background-color: yellow;
+    font-size: 150%;
+    font: 'Roboto mono';
+    text-align: center;
+    border-color: black;
+    width: 600px;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* CSS:
+Class and ID
+CSS Specificity
+Back to HTML (What is a Div?)
+Reset.css */
